@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-gdrive-on-open",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --test tests/plugin.test.cjs"
+  }
+}

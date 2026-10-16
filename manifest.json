@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-gdrive-on-open",
+  "name": "Google Drive 单向上传",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "仅在本仓库打开时，将新增和修改的文件上传到 MyDrive/Obsidian。",
+  "author": "Local tools",
+  "isDesktopOnly": true
+}

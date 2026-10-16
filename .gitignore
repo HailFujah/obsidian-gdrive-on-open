@@ -1,0 +1,12 @@
+# Local authorization and plugin state must never be committed.
+data.json
+rclone.conf
+*client_secret*.json
+*credentials*.json
+*.token.json
+.env
+.env.*
+
+node_modules/
+*.log
+.obsidian/
